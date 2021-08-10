@@ -1,0 +1,99 @@
+.head{
+      
+  background-color:black;
+  border:solid;
+  font-family: papyrus;
+   }
+
+   
+
+.grid {
+  background: darkred;
+  background-color: #F0F8FF;
+  display: flex;
+  justify-content: last baseline;
+  flex-direction: row;
+  text-align:left;
+  flex-wrap: wrap;
+}
+
+.camel {
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#E8E5E4;
+}
+
+
+.chameleon {
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#E8E5E4;
+}
+
+.pigeon {
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#E8E5E4;
+}
+
+.teddybear{
+  border: 1px solid black;
+  margin-top:10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color: #E8E5E4;
+}
+
+.panda{
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color: #E8E5E4;
+}
+
+.cicada{
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color: #E8E5E4;
+}
+
+.crane{
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color: #E8E5E4;
+}
+
+.frog{
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color: #E8E5E4;
+}
